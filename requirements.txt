@@ -1,0 +1,7 @@
+Jupiter/ Python /Jason
+pandas
+numpy
+scikit-learn
+nltk
+matplotlib
+openpyxl
